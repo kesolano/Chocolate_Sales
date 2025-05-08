@@ -7,7 +7,7 @@ The model includes the following related tables:
 ## sales
 -Detailed sales transaction data:
 
-    -Amount: Sale amount.
+    -∑ Amount: Sale amount.
 
     -📠 Amount per box: Average price per box.
 
@@ -19,9 +19,9 @@ The model includes the following related tables:
 
     -Geography: Country where the sale took place.
 
-## Product: Product sold.
+    -Product: Product sold.
 
--Sales Person: Associated salesperson.
+    -Sales Person: Associated salesperson.
 
     -📠 Total Amount: Consolidated total amount.
 
